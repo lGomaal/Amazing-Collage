@@ -1,0 +1,2 @@
+- screenshot photo sould be 900px tall and 200px wide.
+- 
